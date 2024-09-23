@@ -1,6 +1,6 @@
 # Aplikasi-Translator
 
-### An application to translate text from various languages
+An application to translate text from various languages
 
 # Screenshot
 
